@@ -1,0 +1,57 @@
+/**{
+    font-style: italic;
+    margin: 6;
+    padding: 0;
+}
+*/
+
+h1, h2, h3 {
+    color:rgb(255, 230, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+h1 {
+    font-size: x-large;
+}
+h2 {
+    font-size:x-small;
+}
+
+p {
+    color: gray;
+    font-family: Verdana;
+    font-size: medium;
+}
+
+p span {color:red}
+h1 span {color: blue}
+p a span em {text-decoration: brown;}
+
+p * a { color:darkkhaki;}
+
+span.main{
+    color: chartreuse;
+    font-size: x-large;
+}
+
+span .main{
+    color:cyan;
+    font-size: x-small;
+}
+
+.principal{
+    font-size:15px;
+}
+.resaltar {
+   font-weight:bolder;
+}
+.error{
+    color: red;
+}
+#navi{
+    color:darkcyan;
+}
+
+span#navi{
+    color: yellow;
+}

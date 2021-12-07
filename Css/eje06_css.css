@@ -1,0 +1,51 @@
+body{
+    margin:0.5em;
+    /*background-color:#5aF45a;*/
+    padding: 2em 10em;
+    background-image: url('../Img/uady.jpg');
+
+
+}
+h1{
+    line-height: 5cm;
+    border-bottom: 3em solid red;
+}
+p{
+    /*word-spacing: 10 mm;*/
+    margin: 1em;
+    /*color: rgb(71,98,176);
+    color: rgb(27%,38%,69%);
+    color: #719817;
+    color: 336699;*/
+    color:#369;
+}
+a{
+    font-size: 12pt;
+}
+
+span{
+    /*font-size: 1pc;*/
+    font-size: 32px;
+    margin: 1em;
+}
+div{
+    /*margin-top: 2em;
+    margin-right: 5em;
+    margin-bottom: 4em;
+    margin-left: 20 em;*/
+
+    /*margin: 20em;*/
+    /*margin: 20em 5em 0.5em 10em;*/
+    margin: 20em 5em;
+    padding: 10em 5em;
+    /*border-top-width: 2px;
+    border-right-width: 4px;
+    border-bottom-width: 2px;
+    border-left-width: 4px;*/
+    border-width: 6px;
+    border-color:chocolate;
+    border-style: solid;
+}
+div img{
+    margin: 4.5 em;
+}

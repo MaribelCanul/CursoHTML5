@@ -1,0 +1,30 @@
+body{
+    background-image: url('/img/uady.jpg');
+    background-repeat: repeat-x;
+
+}
+#caja1{
+    background-image: url;
+    background-position: bottom left;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    border:#369 dashed;
+}
+#caja2{
+    background-image: url('/img/help.jpeg');
+    background-position: right top;
+    background-repeat: no-repeat;
+    border:#369 dashed;
+}
+
+#caja3{
+    background-image: url('img/help.jpeg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    border:#369 dashed;
+
+}
+div{
+
+}
+
